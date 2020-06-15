@@ -1,5 +1,7 @@
-[
-    { "id": 1, "anggaran": "1200300" },
-    { "id": 2, "realisasi": "43545454" },
-    { "id": 3, "dana orowedol": "544545" }
-]
+{
+    [
+        { "id": 1, "anggaran": "1200300" },
+        { "id": 2, "realisasi": "43545454" },
+        { "id": 3, "dana orowedol": "544545" }
+    ]
+}
