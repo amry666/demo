@@ -1,96 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "rumahbarokah": [
     {
     "tahun":2020,
     "noreg": "0001",
     "kategori":"DB/A",
-    "harga":18000000
+    "harga":18000000,
+    "status":0,
+    "ket":""
     },
     {
     "tahun":2020,
     "noreg": "0002",
     "kategori":"DB/B",
-    "harga":200000
+    "harga":200000,
+      "status":0,
+    "ket":""
     },
     {
     "tahun":2020,
     "noreg": "0001",
     "kategori":"SP/B",
-    "harga":19000000
+    "harga":19000000,
+      "status":0,
+    "ket":""
     }
     ],
-  
-  "orowedols":
-  [
-  [
-    [
-      "Index of Happiness",
-      "09:00",
-      "10:00",
-      "11:00",
-      "12:00",
-      "13:00"
-    ],
-    [
-      "Eden",
-      739,
-      700,
-      233,
-      795,
-      933
-    ],
-    [
-      "Shambhala",
-      409,
-      682,
-      747,
-      314,
-      324
-    ],
-    [
-      "Avalon",
-      182,
-      825,
-      334,
-      384,
-      286
-    ],
-    [
-      "Camelot",
-      646,
-      428,
-      572,
-      188,
-      524
-    ],
-    [
-      "El Dorado",
-      977,
-      177,
-      731,
-      130,
-      353
-    ],
-    [
-      "Atlantis",
-      990,
-      663,
-      763,
-      859,
-      977
-    ]
-  ]
-]
 }
