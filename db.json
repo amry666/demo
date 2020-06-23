@@ -13,18 +13,18 @@
   },
   "rumahbarokah": [
     {
-    "register": "001",
+    "noreg": "001",
     "kategori":"DB/A",
     "harga":18000000
     },
     {
-    "register": "002",
-    "kelas":"DB/B",
+    "noreg": "002",
+    "kategori":"DB/B",
     "harga":200000
     },
     {
-    "register": "002",
-    "kelas":"SP/B",
+    "noreg": "002",
+    "kategori":"SP/B",
     "harga":19000000
     }
     ],
