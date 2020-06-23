@@ -14,19 +14,19 @@
   "rumahbarokah": [
     {
     "tahun":2020,
-    "noreg": "001",
+    "noreg": "0001",
     "kategori":"DB/A",
     "harga":18000000
     },
     {
     "tahun":2020,
-    "noreg": "002",
+    "noreg": "0002",
     "kategori":"DB/B",
     "harga":200000
     },
     {
     "tahun":2020,
-    "noreg": "002",
+    "noreg": "0001",
     "kategori":"SP/B",
     "harga":19000000
     }
