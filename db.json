@@ -11,6 +11,21 @@
   "profile": {
     "name": "typicode"
   },
+  "rumahbarokah": [
+    {
+    "register": "001",
+    "kelas":"A",
+    "kategori":"DB",
+    "harga":18000000
+    },
+    {
+    "register": "002",
+    "kelas":"A",
+    "kategori":"DB",
+    "harga":18000000
+    }
+    ]
+  },
   "orowedols":
   [
   [
