@@ -15,19 +15,19 @@
     {
     "tahun":2020,
     "noreg": "001",
-    "kategori":"DB/A",
+    "kategori":"DB-A",
     "harga":18000000
     },
     {
     "tahun":2020,
     "noreg": "002",
-    "kategori":"DB/B",
+    "kategori":"DB-B",
     "harga":200000
     },
     {
     "tahun":2020,
     "noreg": "002",
-    "kategori":"SP/B",
+    "kategori":"SP-B",
     "harga":19000000
     }
     ],
