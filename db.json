@@ -14,17 +14,16 @@
   "rumahbarokah": [
     {
     "register": "001",
-    "kelas":"A",
-    "kategori":"DB",
+    "kategori":"Domba/A",
     "harga":18000000
     },
     {
     "register": "002",
-    "kelas":"A",
-    "kategori":"DB",
-    "harga":18000000
+    "kategori":"Domba/B",
+    "harga":200000
     }
     ],
+  
   "orowedols":
   [
   [
