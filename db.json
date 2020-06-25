@@ -18,15 +18,87 @@
     },
     {
       "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "SP-B",
+      "noreg": "0003",
+      "kategori": "DB-C",
       "harga": 19000000,
       "status": 0,
       "ket": ""
     },
     {
       "tahun": 2020,
-      "noreg": "0001",
+      "noreg": "0004",
+      "kategori": "DB-D",
+      "harga": 18000000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0005",
+      "kategori": "DB-IST",
+      "harga": 200000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0006",
+      "kategori": "SP-SPR",
+      "harga": 19000000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0100",
+      "kategori": "SP-A",
+      "harga": 18000000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0101",
+      "kategori": "SP-B",
+      "harga": 200000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0102",
+      "kategori": "SP-C",
+      "harga": 19000000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0103",
+      "kategori": "SP-D",
+      "harga": 18000000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0104",
+      "kategori": "SP-IST",
+      "harga": 200000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0105",
+      "kategori": "SP-SPR",
+      "harga": 19000000,
+      "status": 0,
+      "ket": ""
+    },
+    {
+      "tahun": 2020,
+      "noreg": "0334",
       "kategori": "DB-A",
       "harga": 18000000,
       "status": 0,
@@ -34,7 +106,7 @@
     },
     {
       "tahun": 2020,
-      "noreg": "0002",
+      "noreg": "0566",
       "kategori": "DB-B",
       "harga": 200000,
       "status": 0,
@@ -42,7 +114,7 @@
     },
     {
       "tahun": 2020,
-      "noreg": "0001",
+      "noreg": "0546",
       "kategori": "SP-B",
       "harga": 19000000,
       "status": 0,
@@ -50,23 +122,23 @@
     },
     {
       "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "DB-A",
+      "noreg": "0237",
+      "kategori": "DB-D",
       "harga": 18000000,
       "status": 0,
       "ket": ""
     },
     {
       "tahun": 2020,
-      "noreg": "0002",
-      "kategori": "DB-B",
+      "noreg": "4563",
+      "kategori": "SP-IST",
       "harga": 200000,
       "status": 0,
       "ket": ""
     },
     {
       "tahun": 2020,
-      "noreg": "0001",
+      "noreg": "5544",
       "kategori": "SP-B",
       "harga": 19000000,
       "status": 0,
@@ -74,79 +146,7 @@
     },
     {
       "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "DB-A",
-      "harga": 18000000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0002",
-      "kategori": "DB-B",
-      "harga": 200000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "SP-B",
-      "harga": 19000000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "DB-A",
-      "harga": 18000000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0002",
-      "kategori": "DB-B",
-      "harga": 200000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "SP-B",
-      "harga": 19000000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "DB-A",
-      "harga": 18000000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0002",
-      "kategori": "DB-B",
-      "harga": 200000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0001",
-      "kategori": "SP-B",
-      "harga": 19000000,
-      "status": 0,
-      "ket": ""
-    },
-    {
-      "tahun": 2020,
-      "noreg": "0001",
+      "noreg": "7673",
       "kategori": "DB-A",
       "harga": 18000000,
       "status": 0,
