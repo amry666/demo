@@ -8,6 +8,10 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "app_download": [
+    { "id": 1, "title": "Saba Framework (Frontend)", "link": "https://sadsadsd.com" },
+    { "id": 2, "title": "Saba Framework Python", "link": "https://sadsads2d.com" },
+  ],
   "profile": {
     "name": "typicode"
   }
