@@ -217,18 +217,16 @@
       "ket": ""
     }
   ],
-  "saba_framework": {
-    "app_download": [
-      {
-        "id": 1,
-        "title": "Saba Framework (Frontend)",
-        "link": "https://sdsadsad.dsfdsfds.com"
-      },
-       {
-        "id": 2,
-        "title": "Saba Framework (Python 3.9)",
-        "link": "https://sdsadsad.dsfdsfds2.com"
-      }
-    ]
-  }
+  "app_download": [
+    {
+      "id": 1,
+      "title": "Saba Framework (Frontend)",
+      "link": "https://sdsadsad.dsfdsfds.com"
+    },
+     {
+      "id": 2,
+      "title": "Saba Framework (Python 3.9)",
+      "link": "https://sdsadsad.dsfdsfds2.com"
+    }
+  ]
 }
