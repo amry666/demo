@@ -229,8 +229,7 @@
       "link": "https://sdsadsad.dsfdsfds2.com"
     }
   ],
-  "e-rekon": {
-    "rekon": [
+  "rekon": [
     {
         "idRekon": 1007,
         "kode": "01.",
@@ -279,6 +278,5 @@
         "uraian": "Rekon Bulan Desember",
         "tanggal": "2021-12-31T00:00:00"
     }
-]
-  }
+  ]
 }
