@@ -442,5 +442,58 @@
         "namaDok": "dokumen test tambah",
         "isUsed": true
     }
-  ]
+  ],
+  "erekon_rekon_unit": {
+    "status": true,
+    "message": "",
+    "data": [
+    {
+        "unitKey": "618",
+        "idRekon": 1016,
+        "idDaftDokRekon": 2,
+        "kode": "01",
+        "namaDok": "Berita Acara Pemeriksaan Kas",
+        "dokumen": false,
+        "verifikasiDokumen": false,
+        "tglVerifikasi": null,
+        "fileDokumen": null,
+        "userId": null
+    },
+    {
+        "unitKey": "618",
+        "idRekon": 1016,
+        "idDaftDokRekon": 4,
+        "kode": "03",
+        "namaDok": "Saldo Rekening RC BANK",
+        "dokumen": true,
+        "verifikasiDokumen": true,
+        "tglVerifikasi": "2024-01-25T17:23:53",
+        "fileDokumen": "618.1016.12.pdf",
+        "userId": "admin"
+    },
+    {
+        "unitKey": "618",
+        "idRekon": 1016,
+        "idDaftDokRekon": 12,
+        "kode": "10",
+        "namaDok": "Buku Kas Umum BP/BPP",
+        "dokumen": true,
+        "verifikasiDokumen": false,
+        "tglVerifikasi": "2023-12-27T00:00:00",
+        "fileDokumen": "618.1016.12.pdf",
+        "userId": "admin"
+    },
+    {
+        "unitKey": "618",
+        "idRekon": 1016,
+        "idDaftDokRekon": 28,
+        "kode": "26.",
+        "namaDok": "Test",
+        "dokumen": true,
+        "verifikasiDokumen": true,
+        "tglVerifikasi": "2023-12-28T00:00:00",
+        "fileDokumen": "618.1016.28.pdf",
+        "userId": "verifikator"
+    }
+]
 }
