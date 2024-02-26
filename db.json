@@ -229,7 +229,7 @@
       "link": "https://sdsadsad.dsfdsfds2.com"
     }
   ],
-  "erekon-rekon_list": [
+  "erekon_month": [
     {
         "idRekon": 1007,
         "kode": "01.",
@@ -279,7 +279,7 @@
         "tanggal": "2021-12-31T00:00:00"
     }
   ],
-  "erekon-doc_list": [
+  "erekon_doc": [
     {
         "idDaftDokRekon": 2,
         "kode": "01",
@@ -442,5 +442,5 @@
         "namaDok": "dokumen test tambah",
         "isUsed": true
     }
-]
+  ]
 }
