@@ -229,7 +229,7 @@
       "link": "https://sdsadsad.dsfdsfds2.com"
     }
   ],
-  "rekon": [
+  "erekon-rekon_list": [
     {
         "idRekon": 1007,
         "kode": "01.",
@@ -278,5 +278,169 @@
         "uraian": "Rekon Bulan Desember",
         "tanggal": "2021-12-31T00:00:00"
     }
-  ]
+  ],
+  "erekon-doc_list": [
+    {
+        "idDaftDokRekon": 2,
+        "kode": "01",
+        "namaDok": "Berita Acara Pemeriksaan Kas",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 3,
+        "kode": "02",
+        "namaDok": "Register Penutupan Kas",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 4,
+        "kode": "03",
+        "namaDok": "Saldo Rekening RC BANK",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 5,
+        "kode": "04",
+        "namaDok": "Berita Acara Rekonsiliasi BANK",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 7,
+        "kode": "05",
+        "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 8,
+        "kode": "06",
+        "namaDok": "Laporan Pertanggungjawaban (LPJ) UP/GU",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 9,
+        "kode": "07",
+        "namaDok": "Register Pajak",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 10,
+        "kode": "08",
+        "namaDok": "Surat Setoran Pajak (SSP)",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 11,
+        "kode": "09",
+        "namaDok": "Register Pengembalian/Contra Pos",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 12,
+        "kode": "10",
+        "namaDok": "Buku Kas Umum BP/BPP\r\n",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 13,
+        "kode": "11",
+        "namaDok": "Register SPP/SPM/SP2D",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 14,
+        "kode": "12",
+        "namaDok": "Berita Acara Pemeriksaan Fisik Persediaan\r\n",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 15,
+        "kode": "13",
+        "namaDok": "Daftar/Laporan Persediaan",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 16,
+        "kode": "14",
+        "namaDok": "Buku Pembantu Persediaan Per Jenis Barang\r\n",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 17,
+        "kode": "15",
+        "namaDok": "Daftar Utang/Piutang dan Aging Schedule",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 18,
+        "kode": "16",
+        "namaDok": "Daftar Investasi Daerah/Penyertaan Modal Daerah",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 19,
+        "kode": "17",
+        "namaDok": "Berita Acara Rekonsiliasi Pendapatan (SKPD Penghasil)",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 20,
+        "kode": "18",
+        "namaDok": "Berita Acara Rekonsiliasi Aset Tetap\r\n",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 21,
+        "kode": "19",
+        "namaDok": "Rekapitulasi Barang Ke Neraca",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 22,
+        "kode": "20",
+        "namaDok": "Daftar Mutasi Aset Tetap Per UPB/KIB",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 23,
+        "kode": "21",
+        "namaDok": "Daftar Inventarisasi/Aset Lain - lain\r\n",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 24,
+        "kode": "22",
+        "namaDok": "Daftar Penyusutan Aset Tetap",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 25,
+        "kode": "23",
+        "namaDok": "Daftar Mutasi Koreksi Penyusutan Saldo Awal",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 26,
+        "kode": "24",
+        "namaDok": "Daftar Rincian Utang Belanja Pegawai/Barang Jasa/Modal",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 27,
+        "kode": "25",
+        "namaDok": "Berita Acara Upload Dengan Tanda Tangan",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 28,
+        "kode": "26.",
+        "namaDok": "Test",
+        "isUsed": true
+    },
+    {
+        "idDaftDokRekon": 29,
+        "kode": "27",
+        "namaDok": "dokumen test tambah",
+        "isUsed": true
+    }
+]
 }
