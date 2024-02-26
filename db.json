@@ -1,126 +1,110 @@
 {
-  "app_download": [
-    {
-      "id": 1,
-      "title": "Saba Framework (Frontend)",
-      "link": "https://sdsadsad.dsfdsfds.com"
-    },
-     {
-      "id": 2,
-      "title": "Saba Framework (Python 3.9)",
-      "link": "https://sdsadsad.dsfdsfds2.com"
-    }
-  ],
   "erekon_month": [
     {
-        "idRekon": 1007,
-        "kode": "01.",
-        "uraian": "Rekon Bulan Januari",
-        "tanggal": "2024-01-31T00:00:00"
+      "idRekon": 1007,
+      "kode": "01.",
+      "uraian": "Rekon Bulan Januari",
+      "tanggal": "2024-01-31T00:00:00"
     },
     {
-        "idRekon": 1008,
-        "kode": "02.",
-        "uraian": "Rekon Bulan Februari",
-        "tanggal": "2024-02-29T00:00:00"
+      "idRekon": 1008,
+      "kode": "02.",
+      "uraian": "Rekon Bulan Februari",
+      "tanggal": "2024-02-29T00:00:00"
     },
     {
-        "idRekon": 1017,
-        "kode": "03.",
-        "uraian": "Rekon Bulan Maret",
-        "tanggal": "2024-03-31T00:00:00"
+      "idRekon": 1017,
+      "kode": "03.",
+      "uraian": "Rekon Bulan Maret",
+      "tanggal": "2024-03-31T00:00:00"
     },
     {
-        "idRekon": 1018,
-        "kode": "04.",
-        "uraian": "Rekon Bulan April",
-        "tanggal": "2024-04-30T00:00:00"
+      "idRekon": 1018,
+      "kode": "04.",
+      "uraian": "Rekon Bulan April",
+      "tanggal": "2024-04-30T00:00:00"
     },
     {
-        "idRekon": 1009,
-        "kode": "09.",
-        "uraian": "Rekon Bulan September",
-        "tanggal": "2021-09-30T00:00:00"
+      "idRekon": 1009,
+      "kode": "09.",
+      "uraian": "Rekon Bulan September",
+      "tanggal": "2021-09-30T00:00:00"
     },
     {
-        "idRekon": 1023,
-        "kode": "10.",
-        "uraian": "Rekon Bulan Oktober",
-        "tanggal": "2021-10-31T00:00:00"
+      "idRekon": 1023,
+      "kode": "10.",
+      "uraian": "Rekon Bulan Oktober",
+      "tanggal": "2021-10-31T00:00:00"
     },
     {
-        "idRekon": 1011,
-        "kode": "11.",
-        "uraian": "Rekon Bulan November",
-        "tanggal": "2021-11-30T00:00:00"
+      "idRekon": 1011,
+      "kode": "11.",
+      "uraian": "Rekon Bulan November",
+      "tanggal": "2021-11-30T00:00:00"
     },
     {
-        "idRekon": 1016,
-        "kode": "12.",
-        "uraian": "Rekon Bulan Desember",
-        "tanggal": "2021-12-31T00:00:00"
+      "idRekon": 1016,
+      "kode": "12.",
+      "uraian": "Rekon Bulan Desember",
+      "tanggal": "2021-12-31T00:00:00"
+    }
+  ],
+  "erekon_rekon_unit": [
+    {
+      "unitKey": "618",
+      "idRekon": 1016,
+      "idDaftDokRekon": 2,
+      "kode": "01",
+      "namaDok": "Berita Acara Pemeriksaan Kas",
+      "dokumen": false,
+      "verifikasiDokumen": false,
+      "tglVerifikasi": null,
+      "fileDokumen": null,
+      "userId": null
+    },
+    {
+      "unitKey": "618",
+      "idRekon": 1016,
+      "idDaftDokRekon": 4,
+      "kode": "03",
+      "namaDok": "Saldo Rekening RC BANK",
+      "dokumen": true,
+      "verifikasiDokumen": true,
+      "tglVerifikasi": "2024-01-25T17:23:53",
+      "fileDokumen": "618.1016.12.pdf",
+      "userId": "admin"
     }
   ],
   "erekon_doc": [
     {
-        "idDaftDokRekon": 2,
-        "kode": "01",
-        "namaDok": "Berita Acara Pemeriksaan Kas",
-        "isUsed": true
+      "idDaftDokRekon": 2,
+      "kode": "01",
+      "namaDok": "Berita Acara Pemeriksaan Kas",
+      "isUsed": true
     },
     {
-        "idDaftDokRekon": 3,
-        "kode": "02",
-        "namaDok": "Register Penutupan Kas",
-        "isUsed": true
+      "idDaftDokRekon": 3,
+      "kode": "02",
+      "namaDok": "Register Penutupan Kas",
+      "isUsed": true
     },
     {
-        "idDaftDokRekon": 4,
-        "kode": "03",
-        "namaDok": "Saldo Rekening RC BANK",
-        "isUsed": true
+      "idDaftDokRekon": 4,
+      "kode": "03",
+      "namaDok": "Saldo Rekening RC BANK",
+      "isUsed": true
     },
     {
-        "idDaftDokRekon": 5,
-        "kode": "04",
-        "namaDok": "Berita Acara Rekonsiliasi BANK",
-        "isUsed": true
+      "idDaftDokRekon": 5,
+      "kode": "04",
+      "namaDok": "Berita Acara Rekonsiliasi BANK",
+      "isUsed": true
     },
     {
-        "idDaftDokRekon": 7,
-        "kode": "05",
-        "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
-        "isUsed": true
+      "idDaftDokRekon": 7,
+      "kode": "05",
+      "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
+      "isUsed": true
     }
-  ],
-  "erekon_rekon_unit": {
-    "status": true,
-    "message": "",
-    "data": [
-    {
-        "unitKey": "618",
-        "idRekon": 1016,
-        "idDaftDokRekon": 2,
-        "kode": "01",
-        "namaDok": "Berita Acara Pemeriksaan Kas",
-        "dokumen": false,
-        "verifikasiDokumen": false,
-        "tglVerifikasi": null,
-        "fileDokumen": null,
-        "userId": null
-    },
-    {
-        "unitKey": "618",
-        "idRekon": 1016,
-        "idDaftDokRekon": 4,
-        "kode": "03",
-        "namaDok": "Saldo Rekening RC BANK",
-        "dokumen": true,
-        "verifikasiDokumen": true,
-        "tglVerifikasi": "2024-01-25T17:23:53",
-        "fileDokumen": "618.1016.12.pdf",
-        "userId": "admin"
-    }
-]
-  }
+  ]
 }
