@@ -76,35 +76,35 @@
     }
   ],
   "erekon_doc": [
-    {
-      "idDaftDokRekon": 2,
-      "kode": "01",
-      "namaDok": "Berita Acara Pemeriksaan Kas",
-      "isUsed": true
-    },
-    {
-      "idDaftDokRekon": 3,
-      "kode": "02",
-      "namaDok": "Register Penutupan Kas",
-      "isUsed": true
-    },
-    {
-      "idDaftDokRekon": 4,
-      "kode": "03",
-      "namaDok": "Saldo Rekening RC BANK",
-      "isUsed": true
-    },
-    {
-      "idDaftDokRekon": 5,
-      "kode": "04",
-      "namaDok": "Berita Acara Rekonsiliasi BANK",
-      "isUsed": true
-    },
-    {
-      "idDaftDokRekon": 7,
-      "kode": "05",
-      "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
-      "isUsed": true
-    }
-  ]
+  {
+    "idDaftDokRekon": 2,
+    "kode": "01",
+    "namaDok": "Berita Acara Pemeriksaan Kas",
+    "isUsed": true
+  },
+  {
+    "idDaftDokRekon": 3,
+    "kode": "02",
+    "namaDok": "Register Penutupan Kas",
+    "isUsed": true
+  },
+  {
+    "idDaftDokRekon": 4,
+    "kode": "03",
+    "namaDok": "Saldo Rekening RC BANK",
+    "isUsed": true
+  },
+  {
+    "idDaftDokRekon": 5,
+    "kode": "04",
+    "namaDok": "Berita Acara Rekonsiliasi BANK",
+    "isUsed": true
+  },
+  {
+    "idDaftDokRekon": 7,
+    "kode": "05",
+    "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
+    "isUsed": true
+  }
+]
 }
