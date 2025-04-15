@@ -1,361 +1,379 @@
 {
   "sample_map_with_geojson": [
-   {
-      "id":1,
-      "name":"location 1",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
-      ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
-      ],
-      "marker":"[[-6.942743184431506,107.66425609588624],[-6.940249707651617,107.66472816467287],[-6.9401219049620995,107.6713800430298],[-6.941507763524484,107.67241001129152],[-6.9429335561147525,107.6711654663086],[-6.944106403736866,107.67035007476808],[-6.94517141607056,107.6679039001465],[-6.9451913850287825,107.66472816467287]]",
-      "marker_color":"#563cde",
-      "marker_icon":"https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
-      "other_field1":"Marker Multi From String Array",
-      "other_field2":"Other Field Value 2"
-   },
-   {
-      "id":2,
-      "name":"location 2",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
-      ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
-      ],
-      "marker":[
-         [
-            -6.921486304203096,
-            107.57769584655762
-         ],
-         [
-            -6.9226791751218215,
-            107.58945465087892
-         ],
-         [
-            -6.936056163794028,
-            107.587308883667
-         ],
-         [
-            -6.931114390536726,
-            107.57503509521486
-         ]
-      ],
-      "marker_color":"#f98e4e",
-      "marker_icon":"https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
-      "other_field1":"Marker Multi From Array",
-      "other_field2":"Other Field Value 2"
-   },
-   {
-      "id":3,
-      "name":"location 3",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
-      ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
-      ],
-      "marker":"-6.942743184431506,107.66425609588624",
-      "marker_icon":"https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-HD.png",
-      "other_field1":"Marker Single From Sting Lat & Lng",
-      "other_field2":"Other Field Value 2"
-   },
-   {
-      "id":4,
-      "name":"location 4",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
-      ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
-      ],
-      "marker":"-6.981033, 107.850664",
-      "marker_icon":"https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
-      "other_field1":"Marker Single From Sting Lat & Lng",
-      "other_field2":"Other Field Value 2"
-   },
-   {
-      "id":5,
-      "name":"location 4",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png"
-      ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
-      ],
-      "marker":{
-  "type": "FeatureCollection",
-  "features": [
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [106.8272, -6.1751]
-      },
-      "properties": {
-        "name": "Monas"
-      }
+      "id": 1,
+      "name": "location 1",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
+      ],
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
+      ],
+      "marker": "[[-6.942743184431506,107.66425609588624],[-6.940249707651617,107.66472816467287],[-6.9401219049620995,107.6713800430298],[-6.941507763524484,107.67241001129152],[-6.9429335561147525,107.6711654663086],[-6.944106403736866,107.67035007476808],[-6.94517141607056,107.6679039001465],[-6.9451913850287825,107.66472816467287]]",
+      "marker_color": "#563cde",
+      "marker_icon": "https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
+      "other_field1": "Marker Multi From String Array",
+      "other_field2": "Other Field Value 2"
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-    [
-      [106.8272, -6.1751],
-      [106.8280, -6.1751],
-      [106.8280, -6.1740],
-      [106.8272, -6.1740],
-      [106.8272, -6.1751]
-    ]
-  ]
+      "id": 2,
+      "name": "location 2",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
+      ],
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
+      ],
+      "marker": [
+        [
+          -6.921486304203096,
+          107.57769584655762
+        ],
+        [
+          -6.9226791751218215,
+          107.58945465087892
+        ],
+        [
+          -6.936056163794028,
+          107.587308883667
+        ],
+        [
+          -6.931114390536726,
+          107.57503509521486
+        ]
+      ],
+      "marker_color": "#f98e4e",
+      "marker_icon": "https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
+      "other_field1": "Marker Multi From Array",
+      "other_field2": "Other Field Value 2"
+    },
+    {
+      "id": 3,
+      "name": "location 3",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
+      ],
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
+      ],
+      "marker": "-6.942743184431506,107.66425609588624",
+      "marker_icon": "https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-HD.png",
+      "other_field1": "Marker Single From Sting Lat & Lng",
+      "other_field2": "Other Field Value 2"
+    },
+    {
+      "id": 4,
+      "name": "location 4",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
+      ],
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
+      ],
+      "marker": "-6.981033, 107.850664",
+      "marker_icon": "https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
+      "other_field1": "Marker Single From Sting Lat & Lng",
+      "other_field2": "Other Field Value 2"
+    },
+    {
+      "id": 5,
+      "name": "location 4",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png"
+      ],
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
+      ],
+      "marker": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                106.8272,
+                -6.1751
+              ]
+            },
+            "properties": {
+              "name": "Monas"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    106.8272,
+                    -6.1751
+                  ],
+                  [
+                    106.828,
+                    -6.1751
+                  ],
+                  [
+                    106.828,
+                    -6.174
+                  ],
+                  [
+                    106.8272,
+                    -6.174
+                  ],
+                  [
+                    106.8272,
+                    -6.1751
+                  ]
+                ]
+              ]
+            },
+            "properties": {
+              "zone": "Restricted"
+            }
+          }
+        ]
       },
-      "properties": {
-        "zone": "Restricted"
-      }
+      "marker_icon": "https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
+      "other_field1": "Marker Single From Sting Lat & Lng",
+      "other_field2": "Other Field Value 2"
     }
-  ]
-},
-      "marker_icon":"https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
-      "other_field1":"Marker Single From Sting Lat & Lng",
-      "other_field2":"Other Field Value 2"
-   }
-],
-    "erekon_month": [
-   {
-      "id":1,
-      "name":"location 1",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
+  ],
+  "erekon_month": [
+    {
+      "id": 1,
+      "name": "location 1",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
       ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
       ],
-      "marker":"[[-6.942743184431506,107.66425609588624],[-6.940249707651617,107.66472816467287],[-6.9401219049620995,107.6713800430298],[-6.941507763524484,107.67241001129152],[-6.9429335561147525,107.6711654663086],[-6.944106403736866,107.67035007476808],[-6.94517141607056,107.6679039001465],[-6.9451913850287825,107.66472816467287]]",
-      "marker_color":"#563cde",
-      "marker_icon":"https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
-      "other_field1":"Marker Multi From String Array",
-      "other_field2":"Other Field Value 2"
-   },
-   {
-      "id":2,
-      "name":"location 2",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
+      "marker": "[[-6.942743184431506,107.66425609588624],[-6.940249707651617,107.66472816467287],[-6.9401219049620995,107.6713800430298],[-6.941507763524484,107.67241001129152],[-6.9429335561147525,107.6711654663086],[-6.944106403736866,107.67035007476808],[-6.94517141607056,107.6679039001465],[-6.9451913850287825,107.66472816467287]]",
+      "marker_color": "#563cde",
+      "marker_icon": "https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
+      "other_field1": "Marker Multi From String Array",
+      "other_field2": "Other Field Value 2"
+    },
+    {
+      "id": 2,
+      "name": "location 2",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
       ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
       ],
-      "marker":[
-         [
-            -6.921486304203096,
-            107.57769584655762
-         ],
-         [
-            -6.9226791751218215,
-            107.58945465087892
-         ],
-         [
-            -6.936056163794028,
-            107.587308883667
-         ],
-         [
-            -6.931114390536726,
-            107.57503509521486
-         ]
+      "marker": [
+        [
+          -6.921486304203096,
+          107.57769584655762
+        ],
+        [
+          -6.9226791751218215,
+          107.58945465087892
+        ],
+        [
+          -6.936056163794028,
+          107.587308883667
+        ],
+        [
+          -6.931114390536726,
+          107.57503509521486
+        ]
       ],
-      "marker_color":"#f98e4e",
-      "marker_icon":"https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
-      "other_field1":"Marker Multi From Array",
-      "other_field2":"Other Field Value 2"
-   },
-   {
-      "id":3,
-      "name":"location 3",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
+      "marker_color": "#f98e4e",
+      "marker_icon": "https://th.bing.com/th/id/R.5c9465ca15af1ca14321af230fb5b521?rik=Z86EtTrQ7JouDA&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2ficons8%2fandroid%2f512%2fMaps-Polygon-icon.png&ehk=ktsS5FfexVJvyX9%2f%2fJJOq2Q4XFMEOnraBHSPbTK53xI%3d&risl=&pid=ImgRaw&r=0",
+      "other_field1": "Marker Multi From Array",
+      "other_field2": "Other Field Value 2"
+    },
+    {
+      "id": 3,
+      "name": "location 3",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
       ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
       ],
-      "marker":"-6.942743184431506,107.66425609588624",
-      "marker_icon":"https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-HD.png",
-      "other_field1":"Marker Single From Sting Lat & Lng",
-      "other_field2":"Other Field Value 2"
-   },
-   {
-      "id":4,
-      "name":"location 4",
-      "images":[
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png",
-         "https://placehold.co/600x400/000000/FFFFFF/png"
+      "marker": "-6.942743184431506,107.66425609588624",
+      "marker_icon": "https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-HD.png",
+      "other_field1": "Marker Single From Sting Lat & Lng",
+      "other_field2": "Other Field Value 2"
+    },
+    {
+      "id": 4,
+      "name": "location 4",
+      "images": [
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png",
+        "https://placehold.co/600x400/000000/FFFFFF/png"
       ],
-      "images_mode_2":[
-         {
-            "img_id":1,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":2,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         },
-         {
-            "img_id":3,
-            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
-            "caption":".....",
-            "subtitle":"....."
-         }
+      "images_mode_2": [
+        {
+          "img_id": 1,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 2,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        },
+        {
+          "img_id": 3,
+          "image": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+          "caption": ".....",
+          "subtitle": "....."
+        }
       ],
-      "marker":"-6.981033, 107.850664",
-      "marker_icon":"https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
-      "other_field1":"Marker Single From Sting Lat & Lng",
-      "other_field2":"Other Field Value 2"
-   }
-],
+      "marker": "-6.981033, 107.850664",
+      "marker_icon": "https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
+      "other_field1": "Marker Single From Sting Lat & Lng",
+      "other_field2": "Other Field Value 2"
+    }
+  ],
   "erekon_rekonunit": [
     {
       "unitKey": "618",
@@ -383,35 +401,35 @@
     }
   ],
   "erekon_doc": [
-  {
-    "idDaftDokRekon": 2,
-    "kode": "01",
-    "namaDok": "Berita Acara Pemeriksaan Kas",
-    "isUsed": true
-  },
-  {
-    "idDaftDokRekon": 3,
-    "kode": "02",
-    "namaDok": "Register Penutupan Kas",
-    "isUsed": true
-  },
-  {
-    "idDaftDokRekon": 4,
-    "kode": "03",
-    "namaDok": "Saldo Rekening RC BANK",
-    "isUsed": true
-  },
-  {
-    "idDaftDokRekon": 5,
-    "kode": "04",
-    "namaDok": "Berita Acara Rekonsiliasi BANK",
-    "isUsed": true
-  },
-  {
-    "idDaftDokRekon": 7,
-    "kode": "05",
-    "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
-    "isUsed": true
-  }
-]
+    {
+      "idDaftDokRekon": 2,
+      "kode": "01",
+      "namaDok": "Berita Acara Pemeriksaan Kas",
+      "isUsed": true
+    },
+    {
+      "idDaftDokRekon": 3,
+      "kode": "02",
+      "namaDok": "Register Penutupan Kas",
+      "isUsed": true
+    },
+    {
+      "idDaftDokRekon": 4,
+      "kode": "03",
+      "namaDok": "Saldo Rekening RC BANK",
+      "isUsed": true
+    },
+    {
+      "idDaftDokRekon": 5,
+      "kode": "04",
+      "namaDok": "Berita Acara Rekonsiliasi BANK",
+      "isUsed": true
+    },
+    {
+      "idDaftDokRekon": 7,
+      "kode": "05",
+      "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
+      "isUsed": true
+    }
+  ]
 }
