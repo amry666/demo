@@ -150,6 +150,49 @@
       "marker_icon":"https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
       "other_field1":"Marker Single From Sting Lat & Lng",
       "other_field2":"Other Field Value 2"
+   },
+   {
+      "id":5,
+      "name":"location 4",
+      "images":[
+         "https://placehold.co/600x400/000000/FFFFFF/png"
+      ],
+      "images_mode_2":[
+         {
+            "img_id":1,
+            "image":"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Playfair%20Display",
+            "caption":".....",
+            "subtitle":"....."
+         }
+      ],
+      "marker":{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8272, -6.1751]
+      },
+      "properties": {
+        "name": "Monas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[...]]],
+      },
+      "properties": {
+        "zone": "Restricted"
+      }
+    }
+  ]
+},
+      "marker_icon":"https://png.pngtree.com/png-clipart/20231126/ourmid/pngtree-red-realistic-3d-map-pin-gps-pointer-markers-location-icon-png-image_10724972.png",
+      "other_field1":"Marker Single From Sting Lat & Lng",
+      "other_field2":"Other Field Value 2"
    }
 ],
   "erekon_rekonunit": [
