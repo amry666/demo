@@ -182,7 +182,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[...]]],
+        "coordinates": [
+    [
+      [106.8272, -6.1751],
+      [106.8280, -6.1751],
+      [106.8280, -6.1740],
+      [106.8272, -6.1740],
+      [106.8272, -6.1751]
+    ]
+  ],
       },
       "properties": {
         "zone": "Restricted"
