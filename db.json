@@ -209,5 +209,206 @@
     "namaDok": "Laporan Pertanggungjawaban SPJ-Fungsional\r\n",
     "isUsed": true
   }
+],
+  "erekon_tree": [
+  {
+    "id": 1,
+    "name": "Pemerintah Kabupaten",
+    "type": "root",
+    "code": "PEMDA",
+    "children": [
+      {
+        "id": 11,
+        "name": "Sekretariat Daerah",
+        "type": "unit",
+        "code": "01",
+        "children": [
+          {
+            "id": 111,
+            "name": "Bagian Keuangan",
+            "type": "sub_unit",
+            "code": "01.01",
+            "children": [
+              {
+                "id": 1111,
+                "name": "Sub Bagian Anggaran",
+                "type": "sub_unit",
+                "code": "01.01.01",
+                "children": [
+                  {
+                    "id": 11111,
+                    "name": "Rekonsiliasi Kas",
+                    "type": "activity",
+                    "code": "01.01.01.001",
+                    "children": [
+                      {
+                        "id": 111111,
+                        "name": "Berita Acara Pemeriksaan Kas",
+                        "type": "document",
+                        "code": "01",
+                        "status": "complete"
+                      },
+                      {
+                        "id": 111112,
+                        "name": "Register Penutupan Kas",
+                        "type": "document",
+                        "code": "02",
+                        "status": "complete"
+                      },
+                      {
+                        "id": 111113,
+                        "name": "Saldo Rekening RC BANK",
+                        "type": "document",
+                        "code": "03",
+                        "status": "verified"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 1112,
+                "name": "Sub Bagian Perbendaharaan",
+                "type": "sub_unit",
+                "code": "01.01.02",
+                "children": [
+                  {
+                    "id": 11121,
+                    "name": "Rekonsiliasi Bank",
+                    "type": "activity",
+                    "code": "01.01.02.001",
+                    "children": [
+                      {
+                        "id": 111211,
+                        "name": "Berita Acara Rekonsiliasi BANK",
+                        "type": "document",
+                        "code": "04",
+                        "status": "complete"
+                      },
+                      {
+                        "id": 111212,
+                        "name": "Laporan Pertanggungjawaban SPJ-Fungsional",
+                        "type": "document",
+                        "code": "05",
+                        "status": "pending"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Dinas Pendidikan",
+        "type": "unit",
+        "code": "02",
+        "children": [
+          {
+            "id": 121,
+            "name": "Bidang Sekolah Dasar",
+            "type": "sub_unit",
+            "code": "02.01",
+            "children": [
+              {
+                "id": 1211,
+                "name": "SD Negeri 01",
+                "type": "organization",
+                "code": "02.01.001",
+                "children": [
+                  {
+                    "id": 12111,
+                    "name": "Rekonsiliasi Januari 2024",
+                    "type": "activity",
+                    "code": "REK-2024-01",
+                    "children": [
+                      {
+                        "id": 121111,
+                        "name": "Berita Acara Pemeriksaan Kas",
+                        "type": "document",
+                        "code": "01",
+                        "status": "complete"
+                      },
+                      {
+                        "id": 121112,
+                        "name": "Saldo Rekening RC BANK",
+                        "type": "document",
+                        "code": "03",
+                        "status": "verified"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 1212,
+                "name": "SD Negeri 02",
+                "type": "organization",
+                "code": "02.01.002",
+                "children": [
+                  {
+                    "id": 12121,
+                    "name": "Rekonsiliasi Januari 2024",
+                    "type": "activity",
+                    "code": "REK-2024-01",
+                    "children": [
+                      {
+                        "id": 121211,
+                        "name": "Berita Acara Pemeriksaan Kas",
+                        "type": "document",
+                        "code": "01",
+                        "status": "pending"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pemerintah Provinsi",
+    "type": "root",
+    "code": "PROV",
+    "children": [
+      {
+        "id": 21,
+        "name": "Badan Keuangan Daerah",
+        "type": "unit",
+        "code": "01",
+        "children": [
+          {
+            "id": 211,
+            "name": "Bidang Akuntansi",
+            "type": "sub_unit",
+            "code": "01.01",
+            "children": [
+              {
+                "id": 2111,
+                "name": "Rekonsiliasi Keuangan",
+                "type": "activity",
+                "code": "01.01.001",
+                "children": [
+                  {
+                    "id": 21111,
+                    "name": "Berita Acara Rekonsiliasi BANK",
+                    "type": "document",
+                    "code": "04",
+                    "status": "verified"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]
 }
